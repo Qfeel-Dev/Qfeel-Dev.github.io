@@ -1,7 +1,7 @@
 # Site settings
-name: name
-email: email
-url: url
+name: "부규필"
+email: "qfeel0812@gmail.com"
+url: "https://Qfeel-Dev.com"
 description: "A blog and a portfolio"
 author: "author"
 title: "BlogFolio"
@@ -10,7 +10,7 @@ baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
-  username: username
+  username: Qfeel-Dev
 
 twitter:
-  username: username
+  username: Qfeel-Dev
